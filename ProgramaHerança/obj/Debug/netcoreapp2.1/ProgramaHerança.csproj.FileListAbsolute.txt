@@ -1,0 +1,11 @@
+C:\Users\Joao Guilherme\source\repos\ProgramaHerança\ProgramaHerança\bin\Debug\netcoreapp2.1\ProgramaHerança.deps.json
+C:\Users\Joao Guilherme\source\repos\ProgramaHerança\ProgramaHerança\bin\Debug\netcoreapp2.1\ProgramaHerança.runtimeconfig.json
+C:\Users\Joao Guilherme\source\repos\ProgramaHerança\ProgramaHerança\bin\Debug\netcoreapp2.1\ProgramaHerança.runtimeconfig.dev.json
+C:\Users\Joao Guilherme\source\repos\ProgramaHerança\ProgramaHerança\bin\Debug\netcoreapp2.1\ProgramaHerança.dll
+C:\Users\Joao Guilherme\source\repos\ProgramaHerança\ProgramaHerança\bin\Debug\netcoreapp2.1\ProgramaHerança.pdb
+C:\Users\Joao Guilherme\source\repos\ProgramaHerança\ProgramaHerança\obj\Debug\netcoreapp2.1\ProgramaHerança.csprojAssemblyReference.cache
+C:\Users\Joao Guilherme\source\repos\ProgramaHerança\ProgramaHerança\obj\Debug\netcoreapp2.1\ProgramaHerança.csproj.CoreCompileInputs.cache
+C:\Users\Joao Guilherme\source\repos\ProgramaHerança\ProgramaHerança\obj\Debug\netcoreapp2.1\ProgramaHerança.AssemblyInfoInputs.cache
+C:\Users\Joao Guilherme\source\repos\ProgramaHerança\ProgramaHerança\obj\Debug\netcoreapp2.1\ProgramaHerança.AssemblyInfo.cs
+C:\Users\Joao Guilherme\source\repos\ProgramaHerança\ProgramaHerança\obj\Debug\netcoreapp2.1\ProgramaHerança.dll
+C:\Users\Joao Guilherme\source\repos\ProgramaHerança\ProgramaHerança\obj\Debug\netcoreapp2.1\ProgramaHerança.pdb
